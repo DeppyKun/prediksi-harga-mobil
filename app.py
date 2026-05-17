@@ -278,3 +278,5 @@ with st.expander("10 Mobil dengan Penjualan Terbanyak"):
     )
 
 st.caption("Aplikasi dibuat untuk Final Project Sains Data - Prediksi Harga Mobil.")
+st.caption("Guna Pandu Prilana")
+st.caption("237006053")
