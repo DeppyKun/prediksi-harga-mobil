@@ -284,8 +284,8 @@ st.markdown(
     """
     <div style="text-align: center; padding: 20px;">
         <h4>Sistem ini dibuat oleh:</h4>
-        <p><b>Nama:</b> Guna</p>
-        <p><b>NPM:</b> [Isi NPM Kamu]</p>
+        <p><b>Nama:</b> Guna Pandu Prilana</p>
+        <p><b>NPM:</b> 237006053</p>
     </div>
     """,
     unsafe_allow_html=True
