@@ -278,5 +278,15 @@ with st.expander("10 Mobil dengan Penjualan Terbanyak"):
     )
 
 st.caption("Aplikasi dibuat untuk Final Project Sains Data - Prediksi Harga Mobil.")
-st.caption("Guna Pandu Prilana")
-st.caption("237006053")
+st.divider()
+
+st.markdown(
+    """
+    <div style="text-align: center; padding: 20px;">
+        <h4>Sistem ini dibuat oleh:</h4>
+        <p><b>Nama:</b> Guna</p>
+        <p><b>NPM:</b> [Isi NPM Kamu]</p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
