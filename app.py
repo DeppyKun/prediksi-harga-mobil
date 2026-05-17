@@ -13,7 +13,6 @@ from sklearn.pipeline import Pipeline
 
 st.set_page_config(
     page_title="Prediksi Harga Mobil",
-    page_icon="🚗",
     layout="wide"
 )
 
@@ -101,7 +100,7 @@ def train_model():
 model, evaluation, df = train_model()
 
 
-st.title("🚗 Aplikasi Prediksi Harga Mobil")
+st.title("Aplikasi Prediksi Harga Mobil")
 st.write(
     """
     Aplikasi ini digunakan untuk memprediksi harga mobil berdasarkan spesifikasi kendaraan.
